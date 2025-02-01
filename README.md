@@ -58,7 +58,7 @@ Open the Project:
 3.**Open the index.html file in your browser to view the website**.
 
 ---
-##**Live Demo**
+**Live Demo**
 Check out the live demo of the project:
 Live Demo (Replace with your GitHub Pages or hosting link)
 
@@ -80,7 +80,7 @@ Open a pull request.
 **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##**Contact**
+**Contact**
 Your Name: Jasmine Dorathy
 
 Email: jasminedorathyvasantharaj@gmail.com
